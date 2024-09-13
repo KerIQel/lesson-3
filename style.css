@@ -1,0 +1,71 @@
+
+body{
+
+
+    background-image: url("https://images.aeonmedia.co/images/78ba87e7-7198-4468-81b5-500c505d5bc8/essay-gettyimages-1237093074.jpg?width=3840&quality=75&format=auto");
+    background-size: cover;
+ background-color: #cccccc;
+   
+}
+
+
+
+.head{
+    
+    font-style: italic;
+    
+
+    text-align: center;
+    
+
+
+    background-color: black;    
+
+}
+
+.first{
+
+    margin: 2cm;
+    text-align: center;
+   font-size: larger;
+    padding:  10px;
+
+    
+    color: rgb(255, 255, 255);
+
+
+}
+
+.qw{
+
+
+
+    background-color: aquamarine;
+}
+
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    padding: 5px;
+    background-color: #000000;
+    color: #e15858;
+  }
+  .navigation{
+    display: flex;
+    
+    justify-content: flex-end;
+
+    position: relative;
+    padding: 4cm;
+    margin: 4cm;
+    font-size: larger;
+
+    
+  }
+ .mani {
+
+    text-align: center;
+
+ }
